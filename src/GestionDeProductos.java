@@ -4,10 +4,7 @@
  */
 package DeTodoS;
 
-/**
- *
- * @author Nestor Marchizone
- */
+
 public class GestionDeProductos extends javax.swing.JInternalFrame {
 
     private javax.swing.table.DefaultTableModel modeloProductos;
