@@ -198,7 +198,7 @@ public class GestionDeProductos extends javax.swing.JInternalFrame {
     }//GEN-LAST:event_jBNuevoActionPerformed
 
     private void jBGuardarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jBGuardarActionPerformed
-        String descripcion = jTDescripcion.getText().trim();
+       String descripcion = jTDescripcion.getText().trim();
         String precioTexto = jTPrecio.getText().trim();
         String categoriaTexto = (String) jCBCategoria.getSelectedItem();
         int stock = (int) jSpStock.getValue();

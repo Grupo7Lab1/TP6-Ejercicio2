@@ -2,12 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+package DeTodoS;
 
-/**
- *
- * @author Nestor Marchizone
- */
-private int codigo;
+
+public class Producto implements Comparable<Producto> {
+
+    private int codigo;
     private String descripcion;
     private double precio;
     private int stock;

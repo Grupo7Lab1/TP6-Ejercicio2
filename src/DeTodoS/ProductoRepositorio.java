@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+package DeTodoS;
+
 import java.util.TreeSet;
 import java.util.List;
 import java.util.ArrayList;
-/**
- *
- * @author Mrjoshep
- */
+
+
 public class ProductoRepositorio {
     private TreeSet<Producto> productos;
 
